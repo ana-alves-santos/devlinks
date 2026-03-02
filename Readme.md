@@ -1,40 +1,31 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-licenca">Licença</a>
 </p>
 
-<img width="1336" height="585" alt="image" src="https://github.com/user-attachments/assets/c6e79ff8-761c-4f14-ae5a-a9e194f18149" />
+<img width="1336" height="585" alt="imagem" src="https://github.com/user-attachments/assets/c6e79ff8-761c-4f14-ae5a-a9e194f18149" />
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
-This project was developed using the following technologies:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML & CSS  
 - JavaScript  
 - Git & GitHub  
 - Figma  
 
-## 💻 Project
+## 💻 Projeto
 
-**DevLinks** is a link aggregator for you to use as an online business card.
+O **DevLinks** é um agregador de links para você usar como um cartão de visitas online.
 
 <p align="center">
   <a href="https://ana-alves-santos.github.io/devlinks/" target="_blank">
-    Click here to view
+    Clique aqui para visualizar
   </a>
 </p>
-
-
-## :memo: License
-
-This project is under the [MIT License](LICENSE).
-
-
-This project was developed during a Rocketseat course.
-
 
 
